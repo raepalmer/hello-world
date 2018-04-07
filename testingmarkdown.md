@@ -2,6 +2,7 @@ testing table 1 | testing tabel 2
 ----------------|----------------
 content 1 | content 2
 
+---
 
 
 First Header | Second Header
